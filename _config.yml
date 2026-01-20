@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yang Hao（杨浩）"
+title                    : "Hao Yang | Meituan"
 description              : "百载文枢江左 东南辈出英豪"
 repository               : "yanghao1126/yanghao1126.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Hao（杨浩）"
-  avatar           : "images/0914_nanjing.jpg"
+  name             : "Hao Yang（杨浩）"
+  avatar           : "images/0914_nanjing_new.jpg"
   bio              : "Member of LongCat Team"
   location         : "Shanghai, China"
   employer         :
