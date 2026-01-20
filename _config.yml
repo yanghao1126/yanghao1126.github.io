@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang Hao（杨浩）"
-description              : "Personal homapage "
+description              : "百载文枢江左 东南辈出英豪"
 repository               : "yanghao1126/yanghao1126.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yang Hao（杨浩）"
-  avatar           : "images/0102_jiuzhai.jpg"
+  avatar           : "images/0914_nanjing.jpg"
   bio              : "Member of LongCat Team"
   location         : "Shanghai, China"
   employer         :
