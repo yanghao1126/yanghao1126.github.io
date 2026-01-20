@@ -30,8 +30,39 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
+- Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning  
+  Di-Sen Hu, Xun Jiang, Zhe Sun, **Hao Yang**, Chong Peng, Peng Yan, Heng Tao Shen, Xing Xu  
+  Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755139)]
+
+- From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs  
+  Shen-Shen Li, Wen-Xin Meng, Lei Wang, **Hao Yang**, Chong Peng, Peng Yan, Fu-Min Shen, Jing-Kuan Song, Heng Tao Shen, Xing Xu  
+  Findings of the Association for Computational Linguistics (ACL), 2025  
+  [[paper](https://aclanthology.org/2025.findings-acl.979.pdf)]
+
+
+- Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron  
+  Fan Ni, Xun Jiang, **Hao Yang**, Chong Peng, Peng Yan, Zheng Wang, Fu-Min Shen, Xing Xu  
+  Proceedings of the 2025 International Conference on Multimedia Retrieval (ICMR), 2025  
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733293)]
+
+- Social Optimum Assisted Gradient Modulation for Imbalanced Multimodal Learning.
+  Di-Sen Hu, Xun Jiang, Zhe Sun, Hao Yang, Chong Peng, Peng Yan, Xing Xu  
+  Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2025  
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11210066)]
+
+- Causal Intervention with Active Learning for Large Vision-Language Models in Egocentric Contexts.  
+  Wen-Xin Meng, Shen-Shen Li, Lei Wang, **Hao Yang**, Chong Peng, Peng Yan, Xing Xu  
+  Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2025  
+  [[paper](https://www.researchgate.net/publication/397088035_Causal_Intervention_with_Active_Learning_for_Large_Vision-Language_Models_in_Egocentric_Contexts)]
+
+- Learning from noisy labels via dynamic loss thresholding.  
+  **Hao Yang***, You-Zhi Jin*, Zi-Yin Li, Deng-Bao Wang, Xin Geng, Min-Ling Zhang  
+  IEEE Transactions on Knowledge and Data Engineering, 2023  
+  [[paper](https://palm.seu.edu.cn/zhangml/files/TKDE'23.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/DLT.rar)]
+
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels.  
-  Hao-Tian Li, Tong Wei, **Hao Yang**, Kun Hu, Chong Peng, Li-Bo Sun, Xun-Liang Cai, Min-Ling Zhang
+  Hao-Tian Li, Tong Wei, **Hao Yang**, Kun Hu, Chong Peng, Li-Bo Sun, Xun-Liang Cai, Min-Ling Zhang  
   Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023  
   [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
 
