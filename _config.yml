@@ -31,7 +31,7 @@ author:
   email            : "yanghao_seu@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  csdn             : "https://blog.csdn.net/qq_39856931?type=blog"
+  csdn             : 
   codepen          :
   dribbble         :
   flickr           :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "https://blog.csdn.net/qq_39856931?type=blog"
   xing             :
   youtube          :
   wikipedia        :
