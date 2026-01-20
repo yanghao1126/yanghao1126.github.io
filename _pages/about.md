@@ -43,10 +43,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 </div>
 </div>
 
-- Towards class-imbalance aware multi-label learning  
-  Minling Zhang, Yukun Li, Hao Yang, Xuying Liu  
+- Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels.  
+  Hao-Tian Li, Tong Wei, Hao Yang, Kun Hu, Chong Peng, Li-Bo Sun, Xun-Liang Cai, Min-Ling Zhang
+  Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023
+  [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
+
+- Towards class-imbalance aware multi-label learning.  
+  Min-Ling Zhang, Yu-Kun Li, **Hao Yang**, Xu-Ying Liu  
   IEEE Transactions on Cybernetics, 2022  
-  [[PDF](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[CODE](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)]
+  [[paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship 国家奖学金
