@@ -43,7 +43,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Towards class-imbalance aware multi-label learning
+  Minling Zhang, Yukun Li, Hao Yang, Xuying Liu
+  IEEE Transactions on Cybernetics, 2022
+  [[PDF](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[CODE](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)]
 
 # 🎖 Honors and Awards
 - *2021.10* National Scholarship 国家奖学金
