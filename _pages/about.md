@@ -30,18 +30,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
-- Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning  
+- Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning.  
   Di-Sen Hu, Xun Jiang, Zhe Sun,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Heng Tao Shen, Xing Xu  
   Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025  
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755139)]
 
-- From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs  
+- From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs.  
   Shen-Shen Li, Wen-Xin Meng, Lei Wang,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Fu-Min Shen, Jing-Kuan Song, Heng Tao Shen, Xing Xu  
   Findings of the Association for Computational Linguistics (ACL), 2025  
   [[paper](https://aclanthology.org/2025.findings-acl.979.pdf)]
 
 
-- Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron  
+- Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron.  
   Fan Ni, Xun Jiang, <u>Hao Yang</u>, Chong Peng, Peng Yan, Zheng Wang, Fu-Min Shen, Xing Xu  
   Proceedings of the 2025 International Conference on Multimedia Retrieval (ICMR), 2025  
   [[paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733293)]
@@ -72,7 +72,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   [[paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
+- *2024.12* Outstanding Contribution Award, Meituan Dianping Business Group 美团点评事业部杰出贡献奖
+- *2024.01* Outstanding Master Thesis of Jiangsu Province 江苏省优秀硕士学位论文
+- *2022.05* Outstanding Graduate of Jiangsu Province 江苏省优秀毕业生
 - *2021.10* National Scholarship 国家奖学金
+- *2020.10* Espressif Scholarship 乐鑫奖学金
+- *2019-2022* First-class Scholarship for 3 consecutive years 连续3年研究生一等奖学金
+- *2017.10* Bosch Scholarship 博世奖学金
+- *2016.10* President Scholarship 校长奖学金
+- *2015-2019* Merit Student and Outstanding Student Leader for 4 consecutive years 连续4年东南大学三好学生、优秀学生干部
 
 # 📖 Educations
 - *2019.09 - 2022.06*, Master, School of Computer Science and Engineering, Southeast University.
