@@ -72,15 +72,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
   [[paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
-- *2024.12* Outstanding Contribution Award, Meituan Dianping Business Group 美团点评事业部杰出贡献奖
-- *2024.01* Outstanding Master Thesis of Jiangsu Province 江苏省优秀硕士学位论文
-- *2022.05* Outstanding Graduate of Jiangsu Province 江苏省优秀毕业生
-- *2021.10* National Scholarship 国家奖学金
-- *2020.10* Espressif Scholarship 乐鑫奖学金
-- *2019-2022* First-class Scholarship for 3 consecutive years 连续3年研究生一等奖学金
-- *2017.10* Bosch Scholarship 博世奖学金
-- *2016.10* President Scholarship 校长奖学金
-- *2015-2019* Merit Student and Outstanding Student Leader for 4 consecutive years 连续4年东南大学三好学生、优秀学生干部
+- *2024.12* Outstanding Contribution Award, Meituan Dianping Business Group
+- *2024.01* [Outstanding Master Thesis of Jiangsu Province](https://mp.weixin.qq.com/s/mdmVwb_bMGe0jm4sdPJyfg) (10 students each year)
+- *2022.05* Outstanding Graduate of Jiangsu Province (10 students each year)
+- *2021.10* National Scholarship (Top1%)
+- *2020.10* Espressif Scholarship (Top2%)
+- *2019-2022* First-class Scholarship for 3 consecutive years
+- *2017.10* [Bosch Scholarship](https://seuef.seu.edu.cn/2018/0831/c22245a236704/page.htm) (Top2%)
+- *2016.10* President Scholarship (Top1%)
+- *2015-2019* Outstanding Student Leader or Merit Student for 4 consecutive years
 
 # 📖 Educations
 - *2019.09 - 2022.06*, Master, School of Computer Science and Engineering, Southeast University.
