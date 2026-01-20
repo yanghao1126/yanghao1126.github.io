@@ -22,6 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
+- *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
+- *2025.04*: &nbsp;🎉 One paper is accepted by ICMR 2025!
+- *2025.03*: &nbsp;🎉 Two papers are accepted by ICME 2025!
 - *2023.08*: &nbsp;🎉 One paper is accepted by TKDE!
 - *2023.04*: &nbsp;🎉 One paper is accepted by IJCAI 2023!
 
