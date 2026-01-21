@@ -36,7 +36,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 # 📝 Publications 
 - LongCat-Flash-Thinking-2601 Technical Report.  
   Meituan LongCat Team, Core Contributor  
-  [[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)][[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)][[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)][[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)][[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)][[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
+  [[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)] [[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)] [[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)] [[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)] [[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)] [[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
 
 - Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning.  
   Di-Sen Hu, Xun Jiang, Zhe Sun,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Heng Tao Shen, Xing Xu  
@@ -46,7 +46,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 - From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs.  
   Shen-Shen Li, Wen-Xin Meng, Lei Wang,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Fu-Min Shen, Jing-Kuan Song, Heng Tao Shen, Xing Xu  
   Findings of the Association for Computational Linguistics (ACL), 2025  
-  [[Paper](https://aclanthology.org/2025.findings-acl.979.pdf)][[Blog](https://mp.weixin.qq.com/s/l2XTU8Nyg7AXGzO-csnKoA)]
+  [[Paper](https://aclanthology.org/2025.findings-acl.979.pdf)] [[Blog](https://mp.weixin.qq.com/s/l2XTU8Nyg7AXGzO-csnKoA)]
 
 - Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron.  
   Fan Ni, Xun Jiang, <u>Hao Yang</u>, Chong Peng, Peng Yan, Zheng Wang, Fu-Min Shen, Xing Xu  
@@ -66,17 +66,17 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 - Learning from noisy labels via dynamic loss thresholding.  
   <u>Hao Yang</u>\*, You-Zhi Jin*, Zi-Yin Li, Deng-Bao Wang, Xin Geng, Min-Ling Zhang  
   IEEE Transactions on Knowledge and Data Engineering, 2023  
-  [[Paper](https://palm.seu.edu.cn/zhangml/files/TKDE'23.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/DLT.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/TKDE'23.pdf)] [[Code](https://palm.seu.edu.cn/zhangml/files/DLT.rar)]
 
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels.  
   Hao-Tian Li, Tong Wei, <u>Hao Yang</u>, Kun Hu, Chong Peng, Li-Bo Sun, Xun-Liang Cai, Min-Ling Zhang  
   Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023  
-  [[Paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)] [[Code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
 
 - Towards class-imbalance aware multi-label learning.  
   Min-Ling Zhang, Yu-Kun Li, <u>Hao Yang</u>, Xu-Ying Liu  
   IEEE Transactions on Cybernetics, 2022  
-  [[Paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)] [[Code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
 - *2024.12* [Outstanding Contribution Award](/images/dianping_award.jpg), Meituan Dianping Business Group
