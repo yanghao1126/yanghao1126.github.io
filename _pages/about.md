@@ -77,7 +77,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
   [[paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
-- *2024.12* [Outstanding Contribution Award, Meituan Dianping Business Group](/images/dianping_award.jpg)
+- *2024.12* [Outstanding Contribution Award](/images/dianping_award.jpg), Meituan Dianping Business Group
 - *2024.01* [Outstanding Master Thesis of Jiangsu Province](https://mp.weixin.qq.com/s/mdmVwb_bMGe0jm4sdPJyfg) (10 students each year)
 - *2022.05* Outstanding Graduate of Jiangsu Province (10 students each year)
 - *2021.10* National Scholarship (Top1%)
