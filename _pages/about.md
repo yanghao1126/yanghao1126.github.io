@@ -25,7 +25,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 We released [LongCat-Flash-Thinking-2601](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601), achieving new SOTA results on BrowseComp with 56.6% / 73.1% (with context management)! 
+- *2026.01*: &nbsp;🎉 We released [LongCat-Flash-Thinking-2601](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601), achieving new SOTA results on BrowseComp with 56.6% / 73.1% (with context management). Technical report coming soon! 
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🎉 One paper is accepted by ICMR 2025!
@@ -34,47 +34,49 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 - *2023.04*: &nbsp;🎉 One paper is accepted by IJCAI 2023!
 
 # 📝 Publications 
+- LongCat-Flash-Thinking-2601 Technical Report.  
+  Meituan LongCat Team, Core Contributor  
+  [[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)][[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)][[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)][[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)][[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)][[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
 
 - Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning.  
   Di-Sen Hu, Xun Jiang, Zhe Sun,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Heng Tao Shen, Xing Xu  
   Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM), 2025  
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755139)]
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755139)]
 
 - From Observation to Understanding: Front-Door Adjustments with Uncertainty Calibration for Enhancing Egocentric Reasoning in LVLMs.  
   Shen-Shen Li, Wen-Xin Meng, Lei Wang,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Fu-Min Shen, Jing-Kuan Song, Heng Tao Shen, Xing Xu  
   Findings of the Association for Computational Linguistics (ACL), 2025  
-  [[paper](https://aclanthology.org/2025.findings-acl.979.pdf)]
-
+  [[Paper](https://aclanthology.org/2025.findings-acl.979.pdf)][[Blog](https://mp.weixin.qq.com/s/l2XTU8Nyg7AXGzO-csnKoA)]
 
 - Composed Query-Based Event Retrieval in Video Corpus with Multimodal Episodic Perceptron.  
   Fan Ni, Xun Jiang, <u>Hao Yang</u>, Chong Peng, Peng Yan, Zheng Wang, Fu-Min Shen, Xing Xu  
   Proceedings of the 2025 International Conference on Multimedia Retrieval (ICMR), 2025  
-  [[paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733293)]
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3731715.3733293)]
 
 - Social Optimum Assisted Gradient Modulation for Imbalanced Multimodal Learning.  
   Di-Sen Hu, Xun Jiang, Zhe Sun, <u>Hao Yang</u>, Chong Peng, Peng Yan, Xing Xu  
   Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2025  
-  [[paper](https://ieeexplore.ieee.org/abstract/document/11210066)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11210066)]
 
 - Causal Intervention with Active Learning for Large Vision-Language Models in Egocentric Contexts.  
   Wen-Xin Meng, Shen-Shen Li, Lei Wang, <u>Hao Yang</u>, Chong Peng, Peng Yan, Xing Xu  
   Proceedings of the IEEE International Conference on Multimedia and Expo (ICME), 2025  
-  [[paper](https://www.researchgate.net/publication/397088035_Causal_Intervention_with_Active_Learning_for_Large_Vision-Language_Models_in_Egocentric_Contexts)]
+  [[Paper](https://www.researchgate.net/publication/397088035_Causal_Intervention_with_Active_Learning_for_Large_Vision-Language_Models_in_Egocentric_Contexts)]
 
 - Learning from noisy labels via dynamic loss thresholding.  
   <u>Hao Yang</u>\*, You-Zhi Jin*, Zi-Yin Li, Deng-Bao Wang, Xin Geng, Min-Ling Zhang  
   IEEE Transactions on Knowledge and Data Engineering, 2023  
-  [[paper](https://palm.seu.edu.cn/zhangml/files/TKDE'23.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/DLT.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/TKDE'23.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/DLT.rar)]
 
 - Stochastic Feature Averaging for Learning with Long-Tailed Noisy Labels.  
   Hao-Tian Li, Tong Wei, <u>Hao Yang</u>, Kun Hu, Chong Peng, Li-Bo Sun, Xun-Liang Cai, Min-Ling Zhang  
   Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023  
-  [[paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/IJCAI'23d.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/SFA.rar)]
 
 - Towards class-imbalance aware multi-label learning.  
   Min-Ling Zhang, Yu-Kun Li, <u>Hao Yang</u>, Xu-Ying Liu  
   IEEE Transactions on Cybernetics, 2022  
-  [[paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
+  [[Paper](https://palm.seu.edu.cn/zhangml/files/TCYB'20.pdf)][[Code](https://palm.seu.edu.cn/zhangml/files/COCOA.rar)]
 
 # 🎖 Honors and Awards
 - *2024.12* [Outstanding Contribution Award](/images/dianping_award.jpg), Meituan Dianping Business Group
