@@ -21,10 +21,11 @@ I am currently a senior engineer at [Meituan LongCat Team](https://github.com/me
 
 Prior to joining LongCat Team, I was a Multimodal Content Understanding Algorithm Engineer at [Meituan Dianping Business Group](https://www.dianping.com/), where my work focused on Multimodal Large Language Models (MLLMs), Automatic Model Annotation, Cross-modal Embedding Retrieval, and Weakly-supervised Learning. My historical work supported key applications including Dianping Homepage Feed Recommendation, Note Search, and AI Search, etc.
 
-Before that, I received my Master's degree in July 2022 from the [PAttern Learning and Mining (PALM) Lab](https://palm.seu.edu.cn/), [Southeast University](https://seu.edu.cn/), where I was also very fortunate to be supervised by Prof. [Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I also received my Bachelor's degree in School of Computer Science and Engineering from Southeast University in July 2019.
+Before that, I received my Master's degree in July 2022 from the [PAttern Learning and Mining (PALM) Lab](https://palm.seu.edu.cn/), [Southeast University](https://seu.edu.cn/), where I was very fortunate to be supervised by Prof. [Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I also received my Bachelor's degree in School of Computer Science and Engineering from Southeast University in July 2019.
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 We released [LongCat-Flash-Thinking-2601](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601), achieving new SOTA results on BrowseComp with 56.6% / 73.1% (with context management)! 
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🎉 One paper is accepted by ICMR 2025!
