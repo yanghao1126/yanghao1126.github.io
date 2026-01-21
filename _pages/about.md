@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior engineer at [Meituan LongCat Team](https://github.com/meituan-longcat), focusing on research related to Large Language Models (LLMs). 
+I am currently a senior engineer at [Meituan LongCat Team](https://github.com/meituan-longcat), focusing on research related to Search Agents and Large Language Models (LLMs). My current research interests primarily lie in **DeepResearch**, including context management and synthesizing agent data to enhance the capabilities of long-horizon agentic search systems.
 
 Before that, I received my Master's degree in July 2022 from the [PAttern Learning and Mining (PALM) Lab](https://palm.seu.edu.cn/), [Southeast University](https://seu.edu.cn/), where I was also very fortunate to be supervised by Prof. [Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I also received my Bachelor's degree in School of Computer Science and Engineering from Southeast University in July 2019.
 
