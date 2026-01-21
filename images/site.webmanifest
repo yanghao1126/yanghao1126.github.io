@@ -3,13 +3,13 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/images/longcat_logo.png",
-          "sizes": "272x228",
+          "src": "/images/longcat-180x180.png",
+          "sizes": "180x180",
           "type": "image/png"
        },
        {
-        "src": "/images/longcat_logo.png",
-        "sizes": "272x228",
+        "src": "/images/longcat_square.png",
+        "sizes": "272x272",
         "type": "image/png"
         }
     ],
