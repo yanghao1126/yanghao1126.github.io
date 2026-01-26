@@ -35,10 +35,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 
 # 📝 Publications 
 - LongCat-Flash-Thinking-2601 Technical Report.  
-  <u>Hao Yang</u> is a co-author, who contributed to the context management module, specifically the BrowseComp and BrowseComp_zh metrics for Search Agent.
-  <!-- <div style="margin: 20px 0;">
-    <img src="/images/main_figure.png" alt="LongCat-Flash-Thinking-2601" style="max-width: 60%; height: auto;">
-  </div> -->
+  <u>Hao Yang</u> is a co-author, who contributed to the context management module, specifically the BrowseComp and BrowseComp_zh metrics for Search Agent.  
   [[Paper](https://arxiv.org/pdf/2601.16725)] [[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)] [[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)] [[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)] [[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)] [[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)] [[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
 
 - Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning.  
