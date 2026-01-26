@@ -25,7 +25,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 We released [LongCat-Flash-Thinking-2601](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601), achieving new SOTA results on BrowseComp with 56.6% / 73.1% (with context management). Technical report coming soon! 
+- *2026.01*: &nbsp;🎉 We released [LongCat-Flash-Thinking-2601](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601), achieving new SOTA results on BrowseComp with 56.6% / 73.1% (with context management).
 - *2025.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
 - *2025.05*: &nbsp;🎉 One paper is accepted by ACL 2025!
 - *2025.04*: &nbsp;🎉 One paper is accepted by ICMR 2025!
@@ -39,7 +39,7 @@ Before that, I received my Master's degree in July 2022 from the [PAttern Learni
   <!-- <div style="margin: 20px 0;">
     <img src="/images/main_figure.png" alt="LongCat-Flash-Thinking-2601" style="max-width: 60%; height: auto;">
   </div> -->
-  [[Paper](https://arxiv.org/pdf/2601.16725)][[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)] [[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)] [[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)] [[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)] [[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)] [[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
+  [[Paper](https://arxiv.org/pdf/2601.16725)] [[Blog](https://mp.weixin.qq.com/s/LpvkaFNQq61Y3cD9YhgugQ)] [[Github](https://github.com/meituan-longcat/LongCat-Flash-Thinking-2601)] [[HuggingFace](https://huggingface.co/meituan-longcat/LongCat-Flash-Thinking-2601)] [[ModelScope](https://www.modelscope.cn/models/meituan-longcat/LongCat-Flash-Thinking-2601)] [[Twitter](https://x.com/Meituan_LongCat/status/2011515214521647603)] [[机器之心](https://mp.weixin.qq.com/s/4CWGglF95Knyrc-ERzgI2w?scene=1&click_id=15)]
 
 - Geometric Gradient Divergence Modulation for Imbalanced Multimodal Learning.  
   Di-Sen Hu, Xun Jiang, Zhe Sun,  <u>Hao Yang</u>, Chong Peng, Peng Yan, Heng Tao Shen, Xing Xu  
