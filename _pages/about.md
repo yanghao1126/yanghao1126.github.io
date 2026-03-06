@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a senior engineer at [Meituan LongCat Team](https://github.com/meituan-longcat), focusing on research related to Search Agents and Large Language Models (LLMs). My current research interests primarily lie in **DeepResearch**, including context management and synthesizing agent data to enhance the capabilities of long-horizon agentic search systems.
+I am currently a staff engineer at [Meituan LongCat Team](https://github.com/meituan-longcat), focusing on research related to Search Agents and Large Language Models (LLMs). My current research interests primarily lie in **DeepResearch**, including context management and synthesizing agent data to enhance the capabilities of long-horizon agentic search systems.
 
-Prior to joining LongCat Team, I was a Multimodal Content Understanding Algorithm Engineer at [Meituan Dianping Business Group](https://www.dianping.com/), where my work focused on Multimodal Large Language Models (MLLMs), Automatic Model Annotation, Cross-modal Embedding Retrieval, and Weakly-supervised Learning. My historical work supported key applications including Dianping Homepage Feed Recommendation, Note Search, and AI Search, etc.
+Prior to joining LongCat Team, I was a Multimodal Algorithm Engineer at [Meituan Dianping Business Group](https://www.dianping.com/), where my work focused on Multimodal Large Language Models (MLLMs), Cross-modal Embedding Retrieval, and Weakly-supervised Learning. My historical work supported key applications including Dianping AI Search, Feed Recommendation System, and Note Search, etc.
 
 Before that, I received my Master's degree in July 2022 from the [PAttern Learning and Mining (PALM) Lab](https://palm.seu.edu.cn/), [Southeast University](https://seu.edu.cn/), where I was very fortunate to be supervised by Prof. [Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I also received my Bachelor's degree in School of Computer Science and Engineering from Southeast University in July 2019.
 
